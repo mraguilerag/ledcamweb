@@ -1,0 +1,57 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "Iluminación LED",
+      "icon": "zap",
+      "description": "Focos de alta eficiencia para interiores y exteriores. Durabilidad superior y menor consumo."
+    },
+    {
+      "id": 2,
+      "title": "Focos Solares",
+      "icon": "sun",
+      "description": "Autonomía total sin cables. Sensores de movimiento e iluminación automática al anochecer."
+    },
+    {
+      "id": 3,
+      "title": "Sistemas Fotovoltaicos",
+      "icon": "panel-top",
+      "description": "Dimensionamiento e instalación de paneles solares para independencia energética parcial o total."
+    },
+    {
+      "id": 4,
+      "title": "Reparación de Equipos",
+      "icon": "settings",
+      "description": "Servicio técnico especializado en mantenimiento y recuperación de luminarias LED y solares."
+    },
+    {
+      "id": 5,
+      "title": "Reciclaje de Baterías",
+      "icon": "recycle",
+      "description": "Compromiso ambiental: gestionamos el retiro y reciclaje responsable de baterías agotadas."
+    },
+    {
+      "id": 6,
+      "title": "Seguridad Solar",
+      "icon": "video",
+      "description": "Cámaras de vigilancia 4G y WiFi alimentadas por paneles solares para áreas rurales."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Ignacio R.",
+      "role": "Dueño de Parcela",
+      "comment": "Excelente servicio en Rancagua. Instalamos focos solares en toda la parcela y la luminosidad es increíble, incluso en días nublados."
+    },
+    {
+      "name": "Maria Elena T.",
+      "role": "Administradora de Condominio",
+      "comment": "Cambiamos toda la iluminación del condominio por focos solares de LEDCAM. El ahorro fue inmediato y la seguridad mejoró 100%."
+    },
+    {
+      "name": "Carlos V.",
+      "role": "Constructor",
+      "comment": "La asesoría técnica de LEDCAM es lo que más destaco. Saben recomendar exactamente lo que se necesita sin gastos innecesarios. Muy profesionales."
+    }
+  ]
+}
