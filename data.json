@@ -17,25 +17,8 @@
       "title": "Sistemas Fotovoltaicos",
       "icon": "panel-top",
       "description": "Dimensionamiento e instalación de paneles solares para independencia energética parcial o total."
-    },
-    {
-      "id": 4,
-      "title": "Reparación de Equipos",
-      "icon": "settings",
-      "description": "Servicio técnico especializado en mantenimiento y recuperación de luminarias LED y solares."
-    },
-    {
-      "id": 5,
-      "title": "Reciclaje de Baterías",
-      "icon": "recycle",
-      "description": "Compromiso ambiental: gestionamos el retiro y reciclaje responsable de baterías agotadas."
-    },
-    {
-      "id": 6,
-      "title": "Seguridad Solar",
-      "icon": "video",
-      "description": "Cámaras de vigilancia 4G y WiFi alimentadas por paneles solares para áreas rurales."
     }
+    
   ],
   "testimonials": [
     {
